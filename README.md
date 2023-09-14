@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Long Tran</h1>
 <h3 align="center">A dedicated AI Engineer who loves Shiba dogs</h3>
-img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/9336992.gif"
+<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/9336992.gif">
 
 - 🔭 I’m currently working on [Minesweeper AI](https://cs50.harvard.edu/ai/2023/projects/1/minesweeper/)
 
