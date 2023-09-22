@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Long Tran</h1>
 <h3 align="center">A dedicated AI Engineer who loves Shiba Inu</h3>
 
-- 🔭 I’m currently working on [Minesweeper AI](https://cs50.harvard.edu/ai/2023/projects/1/minesweeper/)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **React.js**
 
