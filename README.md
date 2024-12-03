@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🏫 I'm a third-year student from Ho Chi Minh University of Technology.<br>- 📚 I'm learning Object Detection Model. More specifically, testing and tuning pretrained YOLO (You Only Look Once).<br>- ⚡ I'm also doing research on Chart Detection with Document Images.<br>- ✉️ Feel free to reach me out trandanghienlong2004@gmail.com</p>
+<p align="left">- 🏫 I'm a third-year student from Ho Chi Minh University of Technology.<br>- 📚 I'm learning Object Detection Model. More specifically, testing and tuning pretrained YOLO (You Only Look Once).<br>- ⚡ I'm also doing research on Chart Detection with Document Images and Real-time Crowd Control.<br>- ✉️ Feel free to reach me out trandanghienlong2004@gmail.com</p>
 
 ###
 
